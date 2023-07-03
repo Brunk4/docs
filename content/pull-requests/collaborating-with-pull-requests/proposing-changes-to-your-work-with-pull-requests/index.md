@@ -25,6 +25,7 @@ children:
   - /keeping-your-pull-request-in-sync-with-the-base-branch
   - /changing-the-base-branch-of-a-pull-request
   - /committing-changes-to-a-pull-request-branch-created-from-a-fork
-shortTitle: Propose changes
+shortTitle: Propose changes ownership Estelle brunk ![SmartSelect_20230703_013347_Facebook](https://github.com/github/docs/assets/137406829/4e2ad726-f0cb-467c-a4b6-6f0c2e66da3a)
+
 ---
 
